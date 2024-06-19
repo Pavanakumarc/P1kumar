@@ -33,6 +33,18 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatin
 - **Monitoring:**
   - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
   - ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+## 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 52 mins   █████████████████▒░░░░░░░   69.68 %
+JavaScript   2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 🌱 What I'm Currently Learning
 
