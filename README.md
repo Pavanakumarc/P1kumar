@@ -1,6 +1,6 @@
 # Hello, I'm Pavan 👋
 
-![DevOps Engineer](https://example.com/your-image-url.jpg)
+## DevOps Engineer
 
 Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automating and optimizing workflows. Here, you'll find projects and repositories where I leverage my skills in AWS, Azure, Docker, Kubernetes, Python, and C.
 
@@ -18,10 +18,9 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatin
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 
-## 📈 GitHub Stats
+##📈 my github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pavanakumarc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 ## 🔧 Tools and Utilities
@@ -37,9 +36,9 @@ Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automatin
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 52 mins   █████████████████▒░░░░░░░   69.68 %
-JavaScript   2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+DevOps       6 hrs 52 mins   █████████████████▒░░░░░░░   69.68 %
+Python       2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+HTML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
@@ -55,9 +54,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ## 📫 Get in Touch
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile):Pavanakumar walikar
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle)pavan
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle):pavan
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail):pavanroy300@gmail.com
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
